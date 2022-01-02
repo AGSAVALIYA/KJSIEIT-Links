@@ -85,21 +85,21 @@ body {
     position: relative;
     padding-bottom: 20px;
     color: var(--accentColor);
-    font-size: 1rem;
+    font-size: 1.2em;
     display: block;
     font-family: var(--font);
     width: 100%;
     text-align: center;
 
     /*  animation   */
-    overflow: hidden;
+    /* overflow: hidden;
     background: linear-gradient(90deg, var(--bgColor), var(--accentColor), var(--bgColor));
     background-repeat: no-repeat;
     background-size: 80%;
-    animation: animate 10s linear var(--delay) infinite;
+    animation: animate 15s ease-in infinite;
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+    -webkit-text-fill-color: rgba(255, 255, 255, 0); */
 }
 
 
